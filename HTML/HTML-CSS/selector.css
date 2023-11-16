@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    
+}
+p{
+    color: red;
+}
+  .cls{
+    
+color: aquamarine;
+}
+#id_selector{
+    color: brown;
+}
+div > ol {
+    font-size: medium;
+    color: greenyellow;
+}
+ol{
+
+}
+li {
+
+}
+ul {
+    
+} 
